@@ -12,7 +12,7 @@ For confidentiality reasons, the full codebase is not shared here. Instead, this
 - **Collaboration**: Worked in a structured team environment with developers, product managers, and QA peers.  
 - **Task Management**: Tracked test cases, bugs, and tasks using **Jira**, ensuring transparency and timely delivery.  
 - **Version Control**: Validated builds and releases managed through **Bitbucket**, ensuring smooth integration before deployments.  
-- **Agile Practices**: Actively participated in sprint planning, daily stand-ups, and retrospectives to align QA efforts with development progress.  
+- **Agile Practices**: Actively participated in sprint planning, daily stand-ups, and retrospectives to align with QA efforts with development progress.  
 
 ---
 
