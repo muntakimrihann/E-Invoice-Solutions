@@ -41,8 +41,7 @@ For confidentiality reasons, the full codebase is not shared here. Instead, this
 
 ## 🛠️ Technology & Tools  
 - **Testing Types**: Manual, API, Regression, Performance, Stress, Load  
-- **Tools**: Postman, JMeter, Jira, Bitbucket  
-- **Backend Under Test**: Python, Go  
+- **Tools**: Postman, JMeter, Jira, Bitbucket    
 - **Database**: PostgreSQL  
 - **Others**: REST API, Cloud Deployment  
 
