@@ -1,7 +1,7 @@
 # E-Invoice Solutions (Case Study)
 
 📌 **Project Overview**  
-This project is a case study of my work as a **QA Engineer** at **[Hash Solution]**.  
+This project is a case study of my work as a **QA Engineer** at **Hash Solution**.  
 The platform is designed for managing digital invoices, customers, and organizations in a cloud-based environment.  
 
 For confidentiality reasons, the full codebase is not shared here. Instead, this repository provides an overview of the **quality assurance processes, testing strategies, and my contributions** to ensure product reliability and performance.  
